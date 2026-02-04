@@ -1,0 +1,1 @@
+Tam açılımı ile Ordnung der Shwarzesonne.

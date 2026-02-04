@@ -1,0 +1,1 @@
+[[0. Welcome to the Jungle]] ve [[1. das Verfall]] görevlerinde her alan ve ekibi yönlendirmede kullanılan NPC

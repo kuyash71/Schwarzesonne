@@ -1,0 +1,1 @@
+Gottesbefehl örgütünün Lideri. Avrupa'da katolik düzeni canlandırmak istiyor. İç Savaşta Güney Almanya'da ve Avusturya'da birliklerini organize etti.

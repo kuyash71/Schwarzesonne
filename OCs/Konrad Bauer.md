@@ -1,0 +1,1 @@
+Alman iç savaşında Sosyalist isyan grubu Neuspartakusbund'un lideri

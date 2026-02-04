@@ -1,0 +1,3 @@
+Kriegsmarine bünyesinde Karl Donitz'in varisidir. Kanlı Alman iç savaşında 1955 Temmuz'unda Donitz'in Bormann ile olan görüşmesinde süikasti sonrası Kriegsmarine birimlerinin başına geçmiştir.
+
+1956 Haziran'ında savaşın kızışmasını fırsat bilerek uyguladığı "Fall Hoffnung"  ile Hamburg'a geniş çaplı bir çıkarma yapmış ve ardından iyi hazırlanmış bir operasyon ile Berlin'e kadar  tüm iç savaş birliklerini ezmiştir. Berlin'in kurtarılışı işe Bormann'ı tutsak almış ve doğrudan halk önünde infazını emretmiştir. Ardından geri kalan sadık Alman birliklerini yeniden organize ederek iç savaşı 4 ay içinde sona erdirmiştir.

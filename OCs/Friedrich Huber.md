@@ -1,0 +1,1 @@
+İç Savaşta Kuzey Amerika Almanyasının lideri.

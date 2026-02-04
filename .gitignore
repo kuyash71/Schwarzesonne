@@ -1,0 +1,9 @@
+# Obsidian internal
+.obsidian/workspace*
+.obsidian/cache
+.obsidian
+
+# Plugin data (API keys, settings)
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/data/**/*.json
+.obsidian/plugins/copilot/data.json

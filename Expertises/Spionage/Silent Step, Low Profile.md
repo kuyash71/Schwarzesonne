@@ -1,0 +1,1 @@
+Allows stealthy movement unless you act conspicuously. Enables approaching or escaping targets unnoticed. Detection range decreases with level.
