@@ -1,0 +1,1 @@
+Shwarzesonne, kuyash tarafından oluşturulmuş bir Post-WW2 fantastik evrenidir. Amacı, Wolfenstein ve TNO evrenlerinin olumlu yönlerini alıp düzenleyerek, bu evrenleri oynanabilir bir TTRPG campaign'ine çevirmektir.
