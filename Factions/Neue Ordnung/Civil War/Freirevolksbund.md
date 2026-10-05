@@ -1,6 +1,6 @@
 
 ---
-**LİDER**: Konrad Bauer
-**IDEOLOJI**: Merkez-Nazizm
+**LİDER**: [[Konrad Bauer]]
+**IDEOLOJI**: Milliyetçi Totaliter Komünizm (Stalinizm, )
 
 ---

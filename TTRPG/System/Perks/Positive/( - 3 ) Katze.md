@@ -1,0 +1,1 @@
+Karanlıkta görme becerisini arttırır.

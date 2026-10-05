@@ -1,0 +1,1 @@
+Sakarlaşırsın. Hatalı hareketler yapabilirsin.

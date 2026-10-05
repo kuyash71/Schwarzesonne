@@ -1,0 +1,1 @@
+Savaşta uzuv kaybettin. Karakter oluştururken bir ya da iki uzuv seçersin; seçtiğin uzuvlar beden tablosunda Kopuk olarak başlar. Kol seçersen o koldaki el, bacak seçersen o bacaktaki ayak da kopar. Baş, boyun ve gövde seçilemez. Tek uzuv 4, iki uzuv 7 (4 + 3) perk puanı kazandırır. Kayıp uzuv bir augment ile değiştirilebilir.

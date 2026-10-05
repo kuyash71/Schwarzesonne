@@ -1,0 +1,1 @@
+Hızlı hareket ederken daha az düşersin ve çarparsın ancak karanlıkta ve göremediğin alanlarda hızlı hareket edemezsin.

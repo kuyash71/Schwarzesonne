@@ -1,0 +1,1 @@
+Kısa bıçaklar kullanılırken atılan zarlar kolaylaşır. 

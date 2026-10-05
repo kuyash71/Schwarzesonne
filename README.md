@@ -1,1 +1,4 @@
-Shwarzesonne, kuyash tarafından oluşturulmuş bir Post-WW2 fantastik evrenidir. Amacı, Wolfenstein ve TNO evrenlerinin olumlu yönlerini alıp düzenleyerek, bu evrenleri oynanabilir bir TTRPG campaign'ine çevirmektir.
+![[SCHWARZESONNE.png]]
+Schwarzesonne(Kısaltması ile SHZ), kuyash tarafından oluşturulmuş bir Post-WW2 fantastik evrenidir. Evrenin amacı alternatif tarihi "abartılı" olaylar ve aksiyon dolu hikaye ile tecrübe etmeyi sağlayan SHZ-TTRPG oyununa temel olmaktır. Oyun sisteminde oynatılmasında sınırları net çizilmiş yönergeler ve katı çizgiler yerine GM'in tarzına göre esneklik gösteren bir altyapı kurulmuştur.
+
+***UYARI:*** Hikaye asla Nazi Almanya'sı ve SS birlikleri başta olmak üzere dönemin devletlerinin korkunç, ırkçı, ayrılıkçı, rövanşist ve savaş yanlısı politikalarını desteklememektedir ve lanetlemektedir. Hikayenin yaratıcısı olarak Nazi karanlığına karşı verilen savaşta vermiş oldukları hayatları için toprak altındakilere ve görevini yerine getirip bu kıyametten hayatta çıkmış gazilere teşekkür etmekteyim.

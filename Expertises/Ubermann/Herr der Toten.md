@@ -1,2 +1,0 @@
-For each enemy you kill during combat, you gain a bonus to your defense rolls for the duration of the combat. All bonuses reset when combat ends. The bonus cost increases by +1 for each kill.  
-**[Bonuses: +1 / +2 / +2 / +3]**

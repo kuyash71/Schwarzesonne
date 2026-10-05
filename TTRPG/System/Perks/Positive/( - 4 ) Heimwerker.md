@@ -1,0 +1,1 @@
+Makineler ile uğraşılan mühendislik zarları kolaylaşır

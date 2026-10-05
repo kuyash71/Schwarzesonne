@@ -1,0 +1,1 @@
+Stres altında oyuncu daha hızlı hareket eder.

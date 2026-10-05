@@ -1,6 +1,6 @@
 
 ---
-**LİDER**: Reinhard Heydrich
-**IDEOLOJI**: Mor Güneş Ezoterizmi (Shwarzesonne)
+**LİDER**: Circle of SHZ
+**IDEOLOJI**: Mor/Kara Güneş Ezoterizmi (Shwarzesonne)
 
 ---
