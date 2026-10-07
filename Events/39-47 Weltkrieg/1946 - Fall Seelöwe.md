@@ -1,0 +1,3 @@
+Doğu'yu ve Hindistan'ı bitiren Almanya, altı yıl sonra yeniden Manş'a döndü. 1946 yazında Kriegsmarine Home Fleet'i dağıttı ve Alman birlikleri Londra'ya çıktı. Kral VI. George ve kraliyet donanmasının kalanı adayı terk etti. 1936'da tahttan feragat eden Edward da sürgündeki kraliyete geri döndü.
+
+Kraliyet artık başkenti Canberra olan Avustralya merkezli, Ceylon, Güney Afrika ve Perth ekseninde, Commonwealth Marine Raiders'ın koruması altında tutunmaya çalışıyor. Almanya Hindistan üzerinden Ostasien'e zaten ulaşmış, Japonya ise Vietnam, Siam ve Çin ile meşgul olduğu için Hint Okyanusu'ndaki bu İngiliz nüfuzuna ulaşmak iki dev için de öncelik değil.
