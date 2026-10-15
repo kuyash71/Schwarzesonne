@@ -1,3 +1,13 @@
+
+---
+**FACTION**: East Siberia
+**ALIGNMENT**: Walaska
+**AGE**: 75
+**BIRTHPLACE**: Arkansas
+**ACHIEVEMENTS**: 
+
+---
+
 	EKİM 1935: MAC ARTHUR FİLİPİNLERDE
 1935 sonlarında Filipinler özgürlük için organize olmaya başladı. Bunun üzerine ABD ordusunda savaş yanlısı ve müdahaleciliği ile ünlü olan Mac Arthur, ABD ordusundaki son görevi olarak Filipinlere danışman olarak atandı.
 
